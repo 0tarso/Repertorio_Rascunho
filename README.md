@@ -2,6 +2,8 @@
 
 Este é um projeto Vite + ReactJS com base nos requisitos do teste passado para vaga de Desenvolvedor Fullstack Júnior.
 
+Acesse o deploy do projeto:
+https://teste-repertorio-inky.vercel.app/
 
 <br>
 
@@ -30,3 +32,6 @@ http://localhost:5173
 ```
 
 Assim, você conseguirá acessar o projeto localmente em sua máquina.
+
+<hr>
+Obrigado por sua atenção!
